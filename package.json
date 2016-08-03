@@ -1,0 +1,15 @@
+{
+  "name": "desktop_police",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
